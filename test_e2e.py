@@ -53,6 +53,7 @@ class TestOne(BaseClass):
 
 
         assert confirmations.succesTextDisplayed().is_displayed()
+        print("modified for github purposes in GitDemo")
 
 
         #self.driver.find_element(By.CSS_SELECTOR, "a[aria-label='close']").click()

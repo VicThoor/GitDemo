@@ -1,5 +1,5 @@
 
-from selenium.webdriver.support.select import Select
+import selenium.webdriver.support.select
 from selenium import webdriver
 import pytest
 
