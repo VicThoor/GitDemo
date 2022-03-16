@@ -58,6 +58,11 @@ class TestOne(BaseClass):
         print("modified for github purposes in GitDemo")
         print("modified for github purposes in GitDemo")
 
+        print("modifications made in 'develop' branch")
+        print("modifications made in 'develop' branch")
+        print("modifications made in 'develop' branch")
+
+
 
         #self.driver.find_element(By.CSS_SELECTOR, "a[aria-label='close']").click()
         confirmations.closeButton().click()
